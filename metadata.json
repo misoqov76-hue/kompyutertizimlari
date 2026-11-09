@@ -1,0 +1,6 @@
+{
+  "name": "Kompyuter Tizimlari - Virtual Repetitor",
+  "description": "Texnikum o'quvchilari uchun Kompyuter tizimlari fani bo'yicha interaktiv va aqlli repetitor. O'qituvchi: Isoqov Muzaffar.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
